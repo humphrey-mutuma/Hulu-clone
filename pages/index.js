@@ -10,6 +10,7 @@ export default function Home({ results }) {
       <Head>
         <title>Hulu Clone</title>
         <link rel="icon" href="/favicon.ico" />
+    <meta name="google-site-verification" content="Lw08aiLnHRjT25JmCi2dZnwBb3vOQ6SDNWd9bTUVWnE" />
       </Head>
 
       <Header />
